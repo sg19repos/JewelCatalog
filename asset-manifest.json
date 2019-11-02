@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/JewelCatalog/static/css/main.837f8b91.chunk.css",
+    "main.js": "/JewelCatalog/static/js/main.aed979e5.chunk.js",
+    "main.js.map": "/JewelCatalog/static/js/main.aed979e5.chunk.js.map",
+    "runtime-main.js": "/JewelCatalog/static/js/runtime-main.cf9c6bd2.js",
+    "runtime-main.js.map": "/JewelCatalog/static/js/runtime-main.cf9c6bd2.js.map",
+    "static/js/2.d19d5491.chunk.js": "/JewelCatalog/static/js/2.d19d5491.chunk.js",
+    "static/js/2.d19d5491.chunk.js.map": "/JewelCatalog/static/js/2.d19d5491.chunk.js.map",
+    "index.html": "/JewelCatalog/index.html",
+    "precache-manifest.163becc8c639b20027a7669183c5e6db.js": "/JewelCatalog/precache-manifest.163becc8c639b20027a7669183c5e6db.js",
+    "service-worker.js": "/JewelCatalog/service-worker.js",
+    "static/css/main.837f8b91.chunk.css.map": "/JewelCatalog/static/css/main.837f8b91.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf9c6bd2.js",
+    "static/js/2.d19d5491.chunk.js",
+    "static/css/main.837f8b91.chunk.css",
+    "static/js/main.aed979e5.chunk.js"
+  ]
+}
