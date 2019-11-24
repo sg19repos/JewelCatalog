@@ -21,7 +21,11 @@ const FooterElements = () => {
                 <FooterItemStyles>
                     <div>
 <<<<<<< HEAD
+<<<<<<< HEAD
                         <Link to="/favorites">
+=======
+                        <Link to="/screen2">
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
 =======
                         <Link to="/screen2">
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5

@@ -5,7 +5,11 @@ const HomeScreenStyles = styled.div`
     margin-bottom: 20%;
     .homeScreenPapers {
 <<<<<<< HEAD
+<<<<<<< HEAD
         margin-top: auto;
+=======
+        margin-top: 2%;
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
 =======
         margin-top: 2%;
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5

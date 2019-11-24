@@ -27,17 +27,23 @@ export default function IndividualCategories() {
             <Paper className={classes.root}>
                 <p className={classes.paragraph}>Jewellery set</p>
 <<<<<<< HEAD
+<<<<<<< HEAD
                 <GridImage src={jewellerySetImage1} alt="jewellery_set" />
                 <GridImage src={jewellerySetImage7} alt="jewellery_set" />
                 <GridImage src={jewellerySetImage4} alt="jewellery_set" />
                 <GridImage src={jewellerySetImage5} alt="jewellery_set" />
                 <GridImage src={jewellerySetImage6} alt="jewellery_set" />
 =======
+=======
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
                 <GridImage src={jewellerySetImage1} />
                 <GridImage src={jewellerySetImage7} />
                 <GridImage src={jewellerySetImage4} />
                 <GridImage src={jewellerySetImage5} />
                 <GridImage src={jewellerySetImage6} />
+<<<<<<< HEAD
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
+=======
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
                 <CategoriesButtons />
             </Paper>

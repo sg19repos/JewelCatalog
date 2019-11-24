@@ -4,9 +4,12 @@ import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
 import GridImage from "./image";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Link, withRouter } from "react-router-dom";
 // import { browserHistory, Router, Route, IndexRoute } from "react-router";
 import { useHistory } from "react-router-dom";
+=======
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
 =======
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
 
@@ -51,7 +54,11 @@ const useStyles = makeStyles(theme => ({
 }));
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 export default withRouter(function ImageGrid() {
+=======
+export default function ImageGrid() {
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
 =======
 export default function ImageGrid() {
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
@@ -89,6 +96,7 @@ export default function ImageGrid() {
 
     function FormRow() {
 <<<<<<< HEAD
+<<<<<<< HEAD
         const history = useHistory();
         return (
             <React.Fragment>
@@ -121,6 +129,8 @@ export default function ImageGrid() {
                         </Paper>
                     </Link>
 =======
+=======
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
         return (
             <React.Fragment>
                 <Grid item xs={6} className={classes.gridItem2}>
@@ -133,6 +143,9 @@ export default function ImageGrid() {
                     <Paper className={classes.paper2}>
                         <GridImage src={ringsImage} />
                     </Paper>
+<<<<<<< HEAD
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
+=======
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
                     <h5 className={classes.itemname2}>Rings</h5>
                 </Grid>
@@ -165,7 +178,11 @@ export default function ImageGrid() {
         </div>
     );
 <<<<<<< HEAD
+<<<<<<< HEAD
 });
+=======
+}
+>>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
 =======
 }
 >>>>>>> 41cd1c1b5566f613acf1423cc54e1572ffaa5da5
